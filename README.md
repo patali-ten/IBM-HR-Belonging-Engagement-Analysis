@@ -94,17 +94,6 @@ in employees who left the organisation (p < 0.001), and both independently
 
 ---
 
-## 👥 Team — Group KND_08
-
-| Name | Role |
-|---|---|
-| [Patali Tennakoon] | Descriptive Analysis |
-| [Nithya Waidyarathne] | Data Preparation & Feature Engineering |
-| [Ashani Mahagamage] | Inferential Analysis |
-| [Punsara Rathnayake] | Predictive Modelling |
-
----
-
 ## 📄 License
 This project is for academic purposes. Dataset sourced from Kaggle under
 public domain use.
